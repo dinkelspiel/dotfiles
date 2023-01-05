@@ -1,0 +1,2 @@
+killall waybar
+sh ~/.config/hypr/scripts/launch_waybar

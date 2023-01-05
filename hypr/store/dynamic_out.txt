@@ -1,0 +1,1 @@
+{"class": "paused", "text": "\u25b6 ", "tooltip": "\n(spotifyd.instance1542)"}
