@@ -1,5 +1,6 @@
 # Dotfiles
 Dots for [this reddit post](https://www.reddit.com/r/unixporn/comments/101xug7/hyprland_catppuccin_everything_3/?utm_source=share&utm_medium=web2x&context=3)
+
 Hyprland config is a fork of the one from this repo https://github.com/flick0/dotfiles/tree/aurora
 
 Spicetify pollutes the repo but you can find the theme under https://github.com/catppuccin/spicetify
